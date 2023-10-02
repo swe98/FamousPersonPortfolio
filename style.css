@@ -1,0 +1,125 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.s1
+{
+    width: 30%;
+    margin: 10px;
+}
+.s1 img{
+    width: 350px;
+    height: 250px;
+}
+.s2{
+    width: 70%;
+    font-size: 20px;
+    margin-right:50px;
+    margin-top: 10px;
+}
+#home{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse; 
+    background-image: url("https://i.pinimg.com/736x/ba/3b/4e/ba3b4e08a6aff1c34658b5c272fd973d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+#early{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    margin-top: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/025/300/998/non_2x/silk-curtain-waves-in-elegant-fashion-design-generated-by-ai-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
+.s3{
+    width: 50%;
+    margin-top: 10px;
+}
+.s3 img{
+    width: 500px;
+    height: 400px;
+}
+.s4{
+    width: 50%;
+    margin-top: 10px;
+}
+#political 
+{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    margin-top: 10px;
+    background-image: url("https://i.pinimg.com/564x/fb/9f/bc/fb9fbc63eeb99192c5166fca0121f1a1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
+.s5
+{
+    width: 30%;
+    margin: 10px;
+}
+.s5 img{
+    width: 350px;
+    height: 250px;
+}
+.s6
+{
+    width: 70%;
+    font-size: 20px;
+    margin-right:50px;
+    margin-top: 10px;
+}
+#about-us{
+    display: flex;
+    background-image: url("https://png.pngtree.com/background/20220731/original/pngtree-indian-flag-independence-day-wheel-castle-background-picture-image_1908886.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: 'PT Serif', serif;
+}
+h3{
+    font-size: 25px;
+}
+.s7{
+    width: 50%;
+    color: black;
+}
+.s7 img{
+   padding:10px;
+   width: 50px;
+   height: 50px;
+   cursor: pointer;
+}
+.s8{
+    width: 50%;
+    text-decoration: underline;
+}
+ul li {
+    list-style-type: none;
+}
+ul li a{
+    color: black;
+}
+.footer-cols{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
